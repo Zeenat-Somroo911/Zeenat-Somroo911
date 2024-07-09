@@ -6,7 +6,7 @@
 
 <h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2>
 
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlne02xUcdr4nDzx0Wop8WFZ61UNpLQDXKg2ecxWznCOUHnKDAaZEhF6hB1JwN6UzB8yk&usqp=CAU">
 
 <br>
 
